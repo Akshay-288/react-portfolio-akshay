@@ -59,7 +59,7 @@ const Portfolio = () => {
       <nav className="fixed top-0 w-full bg-white shadow-md z-50">
         <div className="max-w-6xl mx-auto px-4">
           <div className="flex justify-between items-center h-16">
-            <h1 className="text-xl font-bold text-blue-600">Akshay Lamdade</h1>
+            <h1 className="text-xl font-bold text-blue-600">Akshay Lamdade | Portfolio</h1>
             
             {/* Desktop Menu */}
             <div className="hidden md:flex gap-8">
@@ -108,7 +108,7 @@ const Portfolio = () => {
       <section id="home" className="pt-24 pb-16 bg-gradient-to-r from-blue-500 to-blue-600 text-white">
         <div className="max-w-6xl mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Akshay Lamdade</h1>
-          <h2 className="text-2xl md:text-3xl mb-6">Java Full Stack Developer</h2>
+         <h2 className="text-2xl md:text-3xl mb-6">Java Full Stack Developer | React & Spring Boot</h2>
           <p className="text-lg mb-8 max-w-2xl mx-auto">
             Building scalable web applications with Java, Spring Boot, and modern technologies
           </p>
@@ -339,7 +339,7 @@ const Portfolio = () => {
 
       {/* Footer */}
       <footer className="bg-gray-800 text-white py-6 text-center">
-        <p>© 2024 Akshay Lamdade. All rights reserved.</p>
+        <p>© 2024 Akshay Lamdade | Portfolio Project</p>
       </footer>
     </div>
   );
