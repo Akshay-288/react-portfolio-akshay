@@ -33,7 +33,7 @@ const Portfolio = () => {
     'Backend': ['Spring Boot', 'Hibernate/JPA', 'REST APIs'],
     'Frontend': ['HTML5', 'CSS3', 'Bootstrap', 'React'],
     'Database': ['MySQL', 'MS SQL Server'],
-    'Tools': ['Git', 'Postman', 'VS Code']
+    'Tools': ['Git', 'Postman', 'VS Code', 'GitHub']
   };
 
   const projects = [
@@ -108,7 +108,7 @@ const Portfolio = () => {
       <section id="home" className="pt-24 pb-16 bg-gradient-to-r from-blue-500 to-blue-600 text-white">
         <div className="max-w-6xl mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Akshay Lamdade</h1>
-         <h2 className="text-2xl md:text-3xl mb-6">Java Full Stack Developer | React & Spring Boot</h2>
+        <h2 className="text-2xl md:text-3xl mb-6">Java Full Stack Developer | React & Spring Boot</h2>
           <p className="text-lg mb-8 max-w-2xl mx-auto">
             Building scalable web applications with Java, Spring Boot, and modern technologies
           </p>
@@ -339,7 +339,7 @@ const Portfolio = () => {
 
       {/* Footer */}
       <footer className="bg-gray-800 text-white py-6 text-center">
-  <p>© 2024 Akshay Lamdade. Built with React.</p>
+  <p>© 2025 Akshay Lamdade. Portfolio Project.</p>
 </footer>
     </div>
   );

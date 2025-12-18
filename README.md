@@ -56,6 +56,5 @@ react-portfolio-akshay/
 ---
 
 ## 📌 Note
-
-This portfolio is created for learning, practice, and professional presentation.
-
+## Learning Goals
+This project demonstrates GitHub workflow, commits, branches, and pull requests.
