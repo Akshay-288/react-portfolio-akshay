@@ -290,7 +290,7 @@ const Portfolio = () => {
       {/* Contact Section */}
       <section id="contact" className="py-16 bg-gray-50">
         <div className="max-w-6xl mx-auto px-4">
-          <h2 className="text-3xl font-bold text-center mb-12 text-gray-800">Get In Touch</h2>
+          <h2 className="text-3xl font-bold text-center mb-12 text-gray-800">Contact Me</h2>
           <div className="max-w-2xl mx-auto bg-white border rounded-lg p-8 shadow-sm">
             <p className="text-center text-gray-700 mb-6">
               Interested in working together? Feel free to reach out!
