@@ -339,8 +339,8 @@ const Portfolio = () => {
 
       {/* Footer */}
       <footer className="bg-gray-800 text-white py-6 text-center">
-        <p>© 2024 Akshay Lamdade | Portfolio Project</p>
-      </footer>
+  <p>© 2024 Akshay Lamdade. Built with React.</p>
+</footer>
     </div>
   );
 };
