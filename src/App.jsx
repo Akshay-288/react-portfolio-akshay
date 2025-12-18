@@ -33,7 +33,7 @@ const Portfolio = () => {
     'Backend': ['Spring Boot', 'Hibernate/JPA', 'REST APIs'],
     'Frontend': ['HTML5', 'CSS3', 'Bootstrap', 'React'],
     'Database': ['MySQL', 'MS SQL Server'],
-    'Tools': ['Git', 'Postman', 'VS Code']
+    'Tools': ['Git', 'Postman', 'VS Code', 'GitHub']
   };
 
   const projects = [
