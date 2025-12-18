@@ -59,7 +59,7 @@ const Portfolio = () => {
       <nav className="fixed top-0 w-full bg-white shadow-md z-50">
         <div className="max-w-6xl mx-auto px-4">
           <div className="flex justify-between items-center h-16">
-            <h1 className="text-xl font-bold text-blue-600">Akshay Lamdade | Portfolio</h1>
+            <h1 className="text-xl font-bold text-blue-600">| Akshay Lamdade | Portfolio | ReactJS</h1>
             
             {/* Desktop Menu */}
             <div className="hidden md:flex gap-8">
