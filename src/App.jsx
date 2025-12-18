@@ -108,7 +108,7 @@ const Portfolio = () => {
       <section id="home" className="pt-24 pb-16 bg-gradient-to-r from-blue-500 to-blue-600 text-white">
         <div className="max-w-6xl mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Akshay Lamdade</h1>
-         <h2 className="text-2xl md:text-3xl mb-6">Java Full Stack Developer | React & Spring Boot</h2>
+        <h2 className="text-2xl md:text-3xl mb-6">Java Full Stack Developer | React & Spring Boot</h2>
           <p className="text-lg mb-8 max-w-2xl mx-auto">
             Building scalable web applications with Java, Spring Boot, and modern technologies
           </p>
