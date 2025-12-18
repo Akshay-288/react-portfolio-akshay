@@ -3,9 +3,11 @@
 A personal portfolio website built using **React.js**, showcasing my skills, projects, and experience as a **Java Full Stack Developer**.
 
 ---
+## Author
+Akshay Lamdade
 
 ## 🚀 Live Demo
-(Will be added after deployment)
+(Will be added after deployment Thank You)
 
 ---
 
@@ -54,5 +56,6 @@ react-portfolio-akshay/
 ---
 
 ## 📌 Note
+
 This portfolio is created for learning, practice, and professional presentation.
 
